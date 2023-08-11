@@ -1,7 +1,7 @@
 ![logo](https://github.com/shivarajbandaru/shivarajbandaru/blob/main/githyb%20back.png)
 <h1 align="center">Hi 👋, I'm Shivaraj bandaru</h1>
 <h3 align="center">Aspiring Front-End Developer (Reactjs) from India</h3>
-<img align="right" alt="coading" width="400px" src="https://camo.githubusercontent.com/f2caaa36dca1a4a7ecd1332d7f3a69c37238caaaedc530e2612cc28b0ed3cf5e/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966">
+<img align="right" alt="coading" width="400px" src="[https://camo.githubusercontent.com/f2caaa36dca1a4a7ecd1332d7f3a69c37238caaaedc530e2612cc28b0ed3cf5e/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0U1o8ZgAAHq2gu3HrddZ4X&ust=1691865476644000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJihmZag1YADFQAAAAAdAAAAABAR)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivarajbandaru&label=Profile%20views&color=0e75b6&style=flat" alt="shivarajbandaru" /> </p>
 
